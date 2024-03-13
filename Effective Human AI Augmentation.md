@@ -9,3 +9,6 @@ In works
 ## Learning and Education
 Centralized institutions are becoming less needed (colleges, schools).
 People will learn on their own.
+
+## Low Bandwidth of LLMS. Perhaps Large Mental Models is the way?
+Just some thought experiments here.
